@@ -27,4 +27,4 @@ You can check out a live demo of the application [here]([https://your-demo-link]
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ISS-tracker.git
+   git clone [https://github.com/your-username/ISS-tracker.git](https://github.com/KappaTrooper/ISS-tracker.git)https://github.com/KappaTrooper/ISS-tracker.git
