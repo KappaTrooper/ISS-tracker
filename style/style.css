@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&display=swap");
+/* 
+   * Optional: Makes the sample page fill the window. 
+   */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Space Grotesk", sans-serif;
+}
+
+#bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 150%;
+}
+
+.background {
+  background-color: #212121;
+  height: 190%;
+}
+
+.main-content {
+  position: relative;
+  color: white;
+  width: 50%;
+  margin: 0 auto;
+}
+.main-content h1 {
+  text-align: center;
+}
+
+.footer-item {
+  background-color: #105BD8;
+}
+.footer-item__top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  gap: 50px;
+}
+.footer-item__bottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-weight: 400;
+}
+.footer-item h3 {
+  font-size: 25px;
+  font-weight: 700;
+  color: white;
+}
+.footer-item img {
+  width: 4%;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.header img {
+  width: 10%;
+  fill: white;
+  cursor: grab;
+}
+
+.header img ::hover {
+  fill: green;
+}
+
+.iframe-container {
+  position: relative;
+  padding-bottom: 56.25%;
+}
+.iframe-container .iframe-container__iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.map-section {
+  margin-top: 5rem;
+}
+.map-section__map {
+  height: 40%;
+}
+
+h1 {
+  margin: 1rem 0;
+  font-weight: 500;
+}/*# sourceMappingURL=style.css.map */
