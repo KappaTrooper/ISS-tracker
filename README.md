@@ -4,7 +4,7 @@ This is a simple web application that tracks the International Space Station (IS
 
 ## Demo
 
-You can check out a live demo of the application [here]([https://your-demo-link](https://preeminent-faloodeh-227bde.netlify.app/)).
+You can check out a live demo of the application [here](https://preeminent-faloodeh-227bde.netlify.app/).
 
 ## Features
 
